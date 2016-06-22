@@ -17,6 +17,8 @@ ik2 = Kls()
 
 print(get_no_of_instances(ik1))
 
+print 'hello'
+
 
 # def iget_no_of_instance(ins_obj):
 #     return ins_obj.no_inst
